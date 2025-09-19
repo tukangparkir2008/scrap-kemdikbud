@@ -34,7 +34,7 @@ func initialModel() Model {
 	myFigure := figure.NewFigure("GIN-DAPODIK", "", true)
 	welcomeMsg := "Aplikasi ini hanya bisa digunakan untuk mengambil data sekolah\n"
 	welcomeMsg += "sesuai dengan satuan pendidikan & provinsi yang diinginkan pada website\n"
-	welcomeMsg += "https://referensi.data.kemdikbud.go.id\n\n"
+	welcomeMsg += "https://referensi.data.kemendikdasmen.go.id\n\n"
 	welcomeMsg += "Tekan ctrl+c untuk close program"
 
 	header := fmt.Sprintf(
