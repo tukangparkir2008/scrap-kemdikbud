@@ -8,7 +8,7 @@ import (
 	"github.com/gocolly/colly"
 )
 
-var base_url = "https://referensi.data.kemdikbud.go.id"
+var base_url = "https://referensi.data.kemendikdasmen.go.id"
 
 // func timeTrack(start time.Time) {
 // 	duration := time.Since(start).Seconds()
