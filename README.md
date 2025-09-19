@@ -1,6 +1,6 @@
 <div align="center" style="margin-bottom:20px; border-bottom: 4px solid #31353d;"> <img src="./doc_images/gin-dapodik.png" width="500"/> </div>
 
-Gin-Dapodik adalah aplikasi yang digunakan untuk melakukan scraping data [Dapodik](https://referensi.data.kemdikbud.go.id/).\
+Gin-Dapodik adalah aplikasi yang digunakan untuk melakukan scraping data [Dapodik](https://referensi.data.kemendikdasmen.go.id/).\
 Khususnya pada bagian menu DATA PENDIDIKAN (PAUD, DIKDAS, DIKMEN, DIKTI, DIKMAS).
 
 [<img src="./doc_images/web-1.png" width="400"/>](web1)
